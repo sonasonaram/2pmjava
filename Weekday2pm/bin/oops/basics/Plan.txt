@@ -1,0 +1,13 @@
+Online Class application
+
+Student
+- name   (- stands for private properties)
+- roll
+- std
+- sec
++ study()   (+ stands for public properties)
+
+Teacher
+- name
+- subjects
++ teach()
